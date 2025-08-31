@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Praneeth Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive portfolio website built with React.js, showcasing my projects, skills, and professional experience.
 
-## Available Scripts
+## 🚀 Live Demo
+[View Portfolio](https://your-portfolio-url.com)
 
-In the project directory, you can run:
+## ✨ Features
+
+- 🎯 Modern and clean UI design
+- 📱 Fully responsive layout
+- 🌓 Light/Dark mode support
+- 🎨 Smooth animations and transitions
+- 📊 Interactive project showcase
+- 📝 Detailed project descriptions
+- 🛠️ Skills and technologies section
+- 📚 Education timeline
+- 💼 Professional experience
+- 🏆 Certifications showcase
+- 📍 Location-based information
+- 📬 Contact form integration
 
 ### `npm start`
 

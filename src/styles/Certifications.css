@@ -1,0 +1,53 @@
+:root {
+  --bg-light: #f9f9f9;
+  --bg-card: #ffffff;
+  --text-primary: #2c3e50;
+  --text-secondary: #34495e;
+  --accent: #3498db;
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --radius: 12px;
+  --transition: 0.3s ease-in-out;
+}
+
+.certifications {
+  padding: 6rem 2rem 3rem;
+  background-color: var(--bg-light);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-secondary);
+}
+
+.certifications h2 {
+  text-align: center;
+  font-size: 2.75rem;
+  color: var(--text-primary);
+  margin-bottom: 3rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.certifications ul {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.certifications li {
+  background-color: var(--bg-card);
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 1.6;
+  cursor: pointer;
+}
+
+.certifications li:hover {
+  transform: translateX(6px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}

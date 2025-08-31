@@ -1,0 +1,31 @@
+# Core Dependencies
+react >= 19.1.0
+react-dom >= 19.1.0
+react-scripts >= 5.0.1
+react-scroll >= 1.9.3
+react-typed >= 2.0.12
+
+# Testing Dependencies
+@testing-library/dom >= 10.4.0
+@testing-library/jest-dom >= 6.6.3
+@testing-library/react >= 16.3.0
+@testing-library/user-event >= 13.5.0
+
+# HTTP Client
+axios >= 1.11.0
+
+# Performance Monitoring
+web-vitals >= 2.1.4
+
+# Development Dependencies
+# Add these using npm install --save-dev
+eslint >= 8.0.0
+prettier >= 2.8.0
+husky >= 8.0.0
+
+# Optional Dependencies (Based on needs)
+# npm install --save [package-name]
+# react-icons - For additional icons
+# framer-motion - For advanced animations
+# react-intersection-observer - For scroll animations
+# emailjs-com - For contact form functionality
